@@ -19,11 +19,12 @@ Make sure you have Flutter installed. For installation instructions, visit [Flut
    ```bash
    git clone [https://github.com/yourusername/weather_app.git](https://github.com/sk0618054/Flutter-Weather-App)
    cd your_weather_app/
+   ```
 2.Install dependencies:
    ```bash
    flutter pub get
    ```
-Run the app:
+3.Run the app:
    Make sure you have a simulator running or a device connected.
    ```bash
    flutter run
